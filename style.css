@@ -12,3 +12,6 @@ p {
     font-size: 30px;
     color: rgb(255, 0, 174)
 }
+span {
+    color: firebrick;
+}
