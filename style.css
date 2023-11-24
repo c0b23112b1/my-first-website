@@ -1,10 +1,9 @@
 /* style.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f00;
-    text-align: center;
+    background-color: blue;
 }
 
-h1 {
-    color: #008080;
+p {
+    color: #ffd700;
 }
