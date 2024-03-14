@@ -5,8 +5,8 @@ body {
 }
 
 div {
-    width: 500px;
-    height: 100px;
+    width: auto;
+    height: auto;
     font-size: 12px;
     color: #000000;
     text-align:center;
