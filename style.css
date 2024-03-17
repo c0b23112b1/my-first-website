@@ -6,11 +6,11 @@ body {
     background-color: rgb(255, 255, 255);
     width: auto;
     height: auto;
-    font-size: xx-large;
+    font-size: x-large;
     color: #000000;
     text-align:auto;
 }
 
 main {
-    background-color: gray;
+    background-color: rgb(149, 255, 123);
 }
