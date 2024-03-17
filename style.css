@@ -1,5 +1,7 @@
 /* style.css */
 body {
+    /* コメントアウト */
+    /* font-familyはユーザーに使わせるフォントを指定する */
     font-family: Arial, sans-serif;
     background-color: rgb(255, 255, 255);
     width: auto;

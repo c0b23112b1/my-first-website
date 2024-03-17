@@ -4,21 +4,41 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <!-- device-widthは端末の幅に横幅を合わせる -->
+    <!-- initial-scaleは初期倍率　2にすると初期状態が2倍になりページ全体が見れない -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>普通のwebサイト</title>
 </head>
 <body>
-    <h1>こんにちは，素晴らしき世界!</h1>
-    <p>本日は快晴なり，本日は快晴なり，あいえうおあいうえおあいうえお</p>
-    <h2><span>とあるリンク集</span></h2>
-    <h2>画像</h2>
-    <h3>箇条書き</h3>
-    <ul>
-    <li>１つめ</li>
-    <li>２つめ</li>
-    </ul>
-    <h4>強制改行</h4>
-    <p>あいうえお<br>改行<br>かきくけこ</p>
+    <header>
+        <h1>web練習ページ</h1>
+        <p>ただの練習ページです</p>
+        <nav>
+            <ul>
+                <li><a href="#">TOP</a></li>
+                <li><a href="#">middle</a></li>
+                <li><a href="#">END</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <main>
+        <h1>新着ニュース一覧</h1>
+        <article>
+            <h2>西バチカン王国情勢</h2>
+            <p>西バチカン王国でオーパーツ見つかる．宇宙人との交信が現在・・・<a href="#">続きを読む</a></p>
+        </article>
+        <article>
+            <h2>月居住状況調査</h2>
+            <p>現在，月先住民との摩擦が強まっている．地球人臨時政府は迫害姿勢を強め・・・<a href="#">続きを読む</a></p>
+        </article>
+    </main>
+
+    <footer>
+        <p>連絡はあちらまで→</p>
+    </footer>
+    
     <!--これでコメントアウトできます-->
     <p><img src="imagee.png" alt="イメージ画像"></p>
 </body>
