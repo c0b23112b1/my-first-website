@@ -15,6 +15,7 @@ body {
 
 header {
     display:flex;
+    text-align: center;
 }
 main {
     background-color: rgb(149, 255, 123);
