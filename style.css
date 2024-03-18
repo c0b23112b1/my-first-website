@@ -7,10 +7,10 @@ body {
     /* コメントアウト */
     /* font-familyはユーザーに使わせるフォントを指定する */
     font-family: Arial, sans-serif;
-    width: auto;
-    height: auto;
+    min-height: 100vh;
     font-size: large;
     flex-direction: column;
+    
 }
 
 header {
