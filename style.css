@@ -3,20 +3,30 @@ html{
     background-color:rgb(255, 255, 255);
     color:rgb(0, 0, 0)
 }
-body {
+body{
     /* コメントアウト */
     /* font-familyはユーザーに使わせるフォントを指定する */
     font-family: Arial, sans-serif;
     min-height: 100vh;
     font-size: large;
     flex-direction: column;
-    
 }
 
-header {
+header{
     display:flex;
     text-align: center;
 }
+
+ul{
+    list-style-type: none;
+    background-color: darkgrey;
+    display:flex
+}
+
+li{
+    flex:1;
+}
+
 main {
     background-color: rgb(149, 255, 123);
 }
