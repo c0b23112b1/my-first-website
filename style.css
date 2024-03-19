@@ -22,6 +22,7 @@ ul{
 
 li{
     flex:1;
+    border:3px solid red;
 }
 
 li a{
@@ -31,7 +32,6 @@ li a{
     text-decoration: none;
     font-weight: bold;
     color:orange;
-    border:3px solid red;
     font-size:xx-large;
 }
 
