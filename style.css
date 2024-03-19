@@ -13,8 +13,8 @@ body{
 
 ul{
     margin:0;
-    padding:0
-    list-style-type: none;
+    padding:0;
+    list-style-type:none;
     background-color: darkgrey;
     /*display:flexは親要素で規定する*/
     display:flex;
