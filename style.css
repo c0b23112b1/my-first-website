@@ -8,7 +8,6 @@ body{
     /* font-familyはユーザーに使わせるフォントを指定する */
     font-family: Arial, sans-serif;
     min-height: 100vh;
-    font-size: large;
 }
 
 ul{
@@ -38,4 +37,5 @@ li a{
 
 main {
     background-color: rgb(149, 255, 123);
+    font-size: large;
 }
