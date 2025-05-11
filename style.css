@@ -22,7 +22,11 @@ ul{
 
 li{
     flex:1;
+}
+
+li a:hover{
     border:3px solid red;
+    background-color: rgb(255, 255, 0);
 }
 
 li a{
